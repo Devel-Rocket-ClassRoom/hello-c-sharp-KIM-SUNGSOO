@@ -1,0 +1,14 @@
+C:\Users\KimSungSoo\repos\hello-Csharp\bin\Debug\net10.0\hello-Csharp.exe
+C:\Users\KimSungSoo\repos\hello-Csharp\bin\Debug\net10.0\hello-Csharp.deps.json
+C:\Users\KimSungSoo\repos\hello-Csharp\bin\Debug\net10.0\hello-Csharp.runtimeconfig.json
+C:\Users\KimSungSoo\repos\hello-Csharp\bin\Debug\net10.0\hello-Csharp.dll
+C:\Users\KimSungSoo\repos\hello-Csharp\bin\Debug\net10.0\hello-Csharp.pdb
+C:\Users\KimSungSoo\repos\hello-Csharp\obj\Debug\net10.0\hello-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KimSungSoo\repos\hello-Csharp\obj\Debug\net10.0\hello-Csharp.AssemblyInfoInputs.cache
+C:\Users\KimSungSoo\repos\hello-Csharp\obj\Debug\net10.0\hello-Csharp.AssemblyInfo.cs
+C:\Users\KimSungSoo\repos\hello-Csharp\obj\Debug\net10.0\hello-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\KimSungSoo\repos\hello-Csharp\obj\Debug\net10.0\hello-Csharp.dll
+C:\Users\KimSungSoo\repos\hello-Csharp\obj\Debug\net10.0\refint\hello-Csharp.dll
+C:\Users\KimSungSoo\repos\hello-Csharp\obj\Debug\net10.0\hello-Csharp.pdb
+C:\Users\KimSungSoo\repos\hello-Csharp\obj\Debug\net10.0\hello-Csharp.genruntimeconfig.cache
+C:\Users\KimSungSoo\repos\hello-Csharp\obj\Debug\net10.0\ref\hello-Csharp.dll
